@@ -1,0 +1,460 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/069b895255ebcf7eb07d3df82289b116/multidex-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bfa0a77303378437a41785dd301629e/material-1.1.0-alpha10/AndroidManifest.xml:17:1-24:12
+MERGED from [com.dynamitechetan.flowinggradient:flowinggradient:1.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0c5f7b2faff870962d130f45125ee5b7/jetified-flowinggradient-1.1/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.preference:preference-ktx:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/46a4fa023e54aa97f5ead3df742a882b/jetified-preference-ktx-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f1d4f0fa174702dd492570b75646e22b/preference-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/38d73252397e14f6b2ca8374e68e18f7/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7152398a3ddf7d6173b22d6a2e92061e/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:2:1-18:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/73de4fac42f003d6488fc830870b2164/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/e548a17f20e8a104c3fe2f357d76b5fd/recyclerview-1.1.0-beta03/AndroidManifest.xml:17:1-24:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ecb1df3cf1e8111944b06f64887d11dd/jetified-rxandroid-2.0.1/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.8.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ea91c163fafb89d0edc80803a8cb905e/jetified-fuel-android-1.8.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:2:1-14:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/836af48c43912de116cf4c3a9900c68f/jetified-roundedimageview-2.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/eb4b0574f48d9e539154aaca38391f66/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/349ef68766b393def79bbcc08250bee5/jetified-play-services-vision-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0559653d801489c0702ab1eca7ba4c7c/jetified-play-services-vision-image-label-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/810e83e494a99ed90859c2b4aa266af2/jetified-play-services-vision-common-19.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bccdb2fb00f187b823d3462c57f38a4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d983c5dce2af78069734351e5fa6e556/jetified-play-services-flags-17.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aadb20eb997c1e45f7da0060950caf48/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/8716f6c1e6600f86cb84bf63a1648d48/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c759b73e44dd587331f4549f638cfda8/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a47ac503a53104cb9453ec1628337d0a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d11798d47f56a0f63b70861620a9ea9e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/196689ac7938efd9fe7bde63e1bf8c1a/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/9e0815ff37e116a5a118a87691bd2001/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/dfb3f05d8d54c291d565ef2c73e0a982/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d8cb716547d03e9b81bdc25f5f7aaf0a/transition-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f128d6cea3d455c774f9a9ff8c16c636/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ddc4d5d5d8ba7442d59e0399238a2056/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/496cf4f43764e7ba1c54640fd47c7f92/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d86a462a03ac6ffb4f3ab144448281f8/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/fed0f8ee682bb48ac1e603badd88b3de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aa817d39ca4f9f9f764e5a0b70163814/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/b77732ae052c8a7beadaefc4f5cc2d1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/cfdba3a9d264c21140cf4b27a073b375/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ef7f8b788d30752a01fb2308ec81e29a/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:4:5-70
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:4:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:11:5-80
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:7:5-80
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:12:5-81
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:8:5-33:19
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bfa0a77303378437a41785dd301629e/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bfa0a77303378437a41785dd301629e/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
+MERGED from [com.dynamitechetan.flowinggradient:flowinggradient:1.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0c5f7b2faff870962d130f45125ee5b7/jetified-flowinggradient-1.1/AndroidManifest.xml:11:5-14:19
+MERGED from [com.dynamitechetan.flowinggradient:flowinggradient:1.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0c5f7b2faff870962d130f45125ee5b7/jetified-flowinggradient-1.1/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:15:5-30:19
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:15:5-30:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:8:5-16:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/349ef68766b393def79bbcc08250bee5/jetified-play-services-vision-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/349ef68766b393def79bbcc08250bee5/jetified-play-services-vision-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0559653d801489c0702ab1eca7ba4c7c/jetified-play-services-vision-image-label-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0559653d801489c0702ab1eca7ba4c7c/jetified-play-services-vision-image-label-18.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/810e83e494a99ed90859c2b4aa266af2/jetified-play-services-vision-common-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/810e83e494a99ed90859c2b4aa266af2/jetified-play-services-vision-common-19.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bccdb2fb00f187b823d3462c57f38a4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bccdb2fb00f187b823d3462c57f38a4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aadb20eb997c1e45f7da0060950caf48/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aadb20eb997c1e45f7da0060950caf48/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/8716f6c1e6600f86cb84bf63a1648d48/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/8716f6c1e6600f86cb84bf63a1648d48/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c759b73e44dd587331f4549f638cfda8/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c759b73e44dd587331f4549f638cfda8/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a47ac503a53104cb9453ec1628337d0a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a47ac503a53104cb9453ec1628337d0a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d11798d47f56a0f63b70861620a9ea9e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d11798d47f56a0f63b70861620a9ea9e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ddc4d5d5d8ba7442d59e0399238a2056/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ddc4d5d5d8ba7442d59e0399238a2056/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/496cf4f43764e7ba1c54640fd47c7f92/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/496cf4f43764e7ba1c54640fd47c7f92/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ddc4d5d5d8ba7442d59e0399238a2056/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:14:9-58
+activity#com.travels.searchtravels.activity.MainActivity
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:16:9-23:20
+	android:screenOrientation
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:16:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:21:27-74
+activity#com.travels.searchtravels.activity.DetailsActivity
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:24:9-27:20
+	android:screenOrientation
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:25:13-49
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:24:19-59
+activity#com.travels.searchtravels.activity.ChipActivity
+ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:28:9-31:20
+	android:screenOrientation
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml:28:19-56
+uses-sdk
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/069b895255ebcf7eb07d3df82289b116/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/069b895255ebcf7eb07d3df82289b116/multidex-2.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bfa0a77303378437a41785dd301629e/material-1.1.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bfa0a77303378437a41785dd301629e/material-1.1.0-alpha10/AndroidManifest.xml:20:5-44
+MERGED from [com.dynamitechetan.flowinggradient:flowinggradient:1.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0c5f7b2faff870962d130f45125ee5b7/jetified-flowinggradient-1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.dynamitechetan.flowinggradient:flowinggradient:1.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0c5f7b2faff870962d130f45125ee5b7/jetified-flowinggradient-1.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.preference:preference-ktx:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/46a4fa023e54aa97f5ead3df742a882b/jetified-preference-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference-ktx:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/46a4fa023e54aa97f5ead3df742a882b/jetified-preference-ktx-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f1d4f0fa174702dd492570b75646e22b/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f1d4f0fa174702dd492570b75646e22b/preference-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/38d73252397e14f6b2ca8374e68e18f7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/38d73252397e14f6b2ca8374e68e18f7/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7152398a3ddf7d6173b22d6a2e92061e/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7152398a3ddf7d6173b22d6a2e92061e/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/656c1ef9c96eb9844c4fefaa31eea625/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:6:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/73de4fac42f003d6488fc830870b2164/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/73de4fac42f003d6488fc830870b2164/jetified-viewpager2-1.0.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/e548a17f20e8a104c3fe2f357d76b5fd/recyclerview-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta03] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/e548a17f20e8a104c3fe2f357d76b5fd/recyclerview-1.1.0-beta03/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ecb1df3cf1e8111944b06f64887d11dd/jetified-rxandroid-2.0.1/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ecb1df3cf1e8111944b06f64887d11dd/jetified-rxandroid-2.0.1/AndroidManifest.xml:19:5-43
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.8.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ea91c163fafb89d0edc80803a8cb905e/jetified-fuel-android-1.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kittinunf.fuel:fuel-android:1.8.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ea91c163fafb89d0edc80803a8cb905e/jetified-fuel-android-1.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:5:5-44
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/836af48c43912de116cf4c3a9900c68f/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/836af48c43912de116cf4c3a9900c68f/jetified-roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/eb4b0574f48d9e539154aaca38391f66/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/eb4b0574f48d9e539154aaca38391f66/jetified-play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/349ef68766b393def79bbcc08250bee5/jetified-play-services-vision-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/349ef68766b393def79bbcc08250bee5/jetified-play-services-vision-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0559653d801489c0702ab1eca7ba4c7c/jetified-play-services-vision-image-label-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-image-label:18.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0559653d801489c0702ab1eca7ba4c7c/jetified-play-services-vision-image-label-18.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/810e83e494a99ed90859c2b4aa266af2/jetified-play-services-vision-common-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/810e83e494a99ed90859c2b4aa266af2/jetified-play-services-vision-common-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bccdb2fb00f187b823d3462c57f38a4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/5bccdb2fb00f187b823d3462c57f38a4/jetified-play-services-clearcut-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d983c5dce2af78069734351e5fa6e556/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d983c5dce2af78069734351e5fa6e556/jetified-play-services-flags-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aadb20eb997c1e45f7da0060950caf48/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aadb20eb997c1e45f7da0060950caf48/jetified-play-services-phenotype-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/8716f6c1e6600f86cb84bf63a1648d48/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/8716f6c1e6600f86cb84bf63a1648d48/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c759b73e44dd587331f4549f638cfda8/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c759b73e44dd587331f4549f638cfda8/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a47ac503a53104cb9453ec1628337d0a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a47ac503a53104cb9453ec1628337d0a/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d11798d47f56a0f63b70861620a9ea9e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d11798d47f56a0f63b70861620a9ea9e/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/196689ac7938efd9fe7bde63e1bf8c1a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/196689ac7938efd9fe7bde63e1bf8c1a/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/9e0815ff37e116a5a118a87691bd2001/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/9e0815ff37e116a5a118a87691bd2001/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/2a612bd4c425dcfbfc1a3a304e287881/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/dfb3f05d8d54c291d565ef2c73e0a982/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/dfb3f05d8d54c291d565ef2c73e0a982/coordinatorlayout-1.1.0-beta01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d8cb716547d03e9b81bdc25f5f7aaf0a/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d8cb716547d03e9b81bdc25f5f7aaf0a/transition-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c12747f68fadffbb0e0ad871896b687f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/a30017872b14105a400314921d5cb62e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/76e2c37ae32353ccc0fe554bfc39f522/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6f621cac338d61e4657df2851636b5fa/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f128d6cea3d455c774f9a9ff8c16c636/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f128d6cea3d455c774f9a9ff8c16c636/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4641752ec657f9b4a42d6a06f25d7d22/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4105de63edbfe1f7a89f44426cee4e60/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ddc4d5d5d8ba7442d59e0399238a2056/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ddc4d5d5d8ba7442d59e0399238a2056/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/22f084678c0c8123034752ff82b9a006/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1810aea4ce2a1227f21772ff132d1844/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ae0d43a8cd9e2d0dca0ee7612d373384/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6118f679eabfffe3c12f082544a87853/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/496cf4f43764e7ba1c54640fd47c7f92/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/496cf4f43764e7ba1c54640fd47c7f92/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d86a462a03ac6ffb4f3ab144448281f8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d86a462a03ac6ffb4f3ab144448281f8/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/fed0f8ee682bb48ac1e603badd88b3de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/fed0f8ee682bb48ac1e603badd88b3de/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aa817d39ca4f9f9f764e5a0b70163814/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/aa817d39ca4f9f9f764e5a0b70163814/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/6ba1de9be899b775fb2e622bcf9ee329/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/b77732ae052c8a7beadaefc4f5cc2d1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/b77732ae052c8a7beadaefc4f5cc2d1b/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/cfdba3a9d264c21140cf4b27a073b375/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/cfdba3a9d264c21140cf4b27a073b375/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ef7f8b788d30752a01fb2308ec81e29a/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ef7f8b788d30752a01fb2308ec81e29a/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7ab9174479fb69088763d43ae7121c6c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/f99660dd63e7ed3a1e117a2af2f25bf8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/0a9c6c10530aac001e1e59b7495bfbcb/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		ADDED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/spbiphones/Downloads/hotfix.mobile/app/src/main/AndroidManifest.xml
+activity#com.esafirm.rximagepicker.ShadowActivity
+ADDED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:12:9-16:75
+	android:launchMode
+		ADDED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:15:13-43
+	android:configChanges
+		ADDED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:14:13-122
+	android:theme
+		ADDED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [com.github.esafirm.android-image-picker:rximagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d900d2d5f955446fa74a96f5676146f7/jetified-rximagepicker-2.1.0/AndroidManifest.xml:13:13-68
+uses-permission#android.permission.CAMERA
+ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:13:5-65
+	android:name
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:13:22-62
+activity#com.esafirm.imagepicker.features.ImagePickerActivity
+ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:16:9-19:50
+	android:configChanges
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:18:13-59
+	android:theme
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:17:13-80
+provider#com.esafirm.imagepicker.helper.ImagePickerFileProvider
+ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:21:9-29:20
+	android:grantUriPermissions
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:25:13-47
+	android:authorities
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:23:13-72
+	android:exported
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:22:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:26:13-28:71
+	android:resource
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.github.esafirm.android-image-picker:imagepicker:2.1.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/d9618effa555bd5d9fc6b02ee9daed7d/jetified-imagepicker-2.1.0/AndroidManifest.xml:27:17-67
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:10:13-84
+meta-data#com.google.firebase.components:com.google.firebase.ml.vision.VisionRegistrar
+ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-vision:24.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/be318bd2ab55a46d5da7f05ac8899369/jetified-firebase-ml-vision-24.0.1/AndroidManifest.xml:13:17-108
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/4b2f516764c61c45eff55b7d8497b5ae/jetified-picasso-2.71828/AndroidManifest.xml:9:13-64
+meta-data#com.google.firebase.components:com.google.firebase.ml.common.CommonComponentRegistrar
+ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-ml-common:22.0.1] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/7fa7900464d8380e347bcd009b0bb5a0/jetified-firebase-ml-common-22.0.1/AndroidManifest.xml:12:17-117
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/c0427aa6decd7ef2f9b32242b9e61497/jetified-firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/548e9fe7c0dbc0938b6828b2531865ee/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/ce130850b55eed0e402dbf56159bc1b2/jetified-firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/spbiphones/.gradle/caches/transforms-2/files-2.1/1b90b1be4df66705fb91818db0752e78/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
